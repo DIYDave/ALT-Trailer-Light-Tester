@@ -1,0 +1,15 @@
+Pinbelegung China Adapterkabel
+
+1   Gelb            Blinker Links
+2   Blau            Nebel Schlussleuchte
+3   Weiss           GND 1-8
+4   Grün            Blinker Rechts
+5   Braun           Licht Rechts
+6   Rot             Bremsleuchten
+7   Schwarz         Licht Links
+8   Pink            Rückfahrleuchte
+9   Orange          Dauerplus Innenlicht ?
+10  Grau            Ladeleitung Batterie ?
+11  Weiss/Schwarz   GND Ladeleitung ?
+12  Grün/Weiss      Nicht belegt
+13  Wiss/Rot        GND 9-12
